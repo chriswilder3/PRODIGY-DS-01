@@ -22,7 +22,7 @@ The project starts with loading necessary libraries and importing the dataset us
 import pandas as pd
 
 # Loading the dataset
-data = pd.read_csv('/kaggle/input/adult-census-income/adult.csv')
+data = pd.read_csv('adult.csv')
 ````
 ## Data Exploration
 
